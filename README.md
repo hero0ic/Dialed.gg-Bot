@@ -8,6 +8,10 @@
 
 ---
 
+## 📥 Download
+Get the latest release [here](https://github.com/hero0ic/Dialed.gg-Bot/releases/latest).
+
+---
 ## ⚙️ How it works
 
 1. **Calibration**
