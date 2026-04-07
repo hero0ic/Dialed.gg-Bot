@@ -60,3 +60,5 @@ To set up the bot, complete the calibration process by hovering over each requir
 3. Start a game and wait for the preview phase
 4. When the preview phase begins, run the bot with the game window open
 5. Repeat steps 3 and 4 each round
+
+**Note:** If accuracy seems off, click **Recalibrate** and redo the calibration steps.
